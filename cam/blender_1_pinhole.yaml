@@ -1,0 +1,13 @@
+cam_model: Pinhole
+cam_width: 752
+cam_height: 480
+cam_fx: 217.083701215
+cam_fy: 217.083701215
+cam_cx: 376
+cam_cy: 240
+cam_d0: 0.0
+cam_d1: 0.0
+cam_d2: 0.0
+cam_d3: 0.0
+cam_calib_date: '2013-11-17'
+cam_description: 'Blender synthetic camera no. 1'

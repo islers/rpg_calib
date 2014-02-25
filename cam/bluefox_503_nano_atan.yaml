@@ -1,0 +1,11 @@
+cam_model: ATAN
+cam_width: 752
+cam_height: 480
+cam_fx: 0.577014
+cam_fy: 0.903152
+cam_cx: 0.461872
+cam_cy: 0.538789
+cam_d0: 0.915545
+cam_calib_date: '2012-11-29'
+cam_name: BLUEFOX_25000503
+cam_description: 'Bluefox Camera NanoQuad no. 4'

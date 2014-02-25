@@ -1,0 +1,11 @@
+cam_model: ATAN
+cam_width: 640
+cam_height: 480
+cam_fx: 0.474348
+cam_fy: 0.631602
+cam_cx: 0.529906
+cam_cy: 0.492715
+cam_d0: 0.886653
+cam_calib_date: '2014-01-29'
+cam_name: FIREFLY_1
+cam_description: 'Davides Firefly'

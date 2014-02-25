@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package>
+  <name>rpg_calib</name>
+  <version>0.0.0</version>
+  <description>The rpg_calib package</description>
+  <maintainer email="cfo@todo.com">cfo</maintainer>
+  <license>BSD</license>
+  <export>
+  </export>
+</package>

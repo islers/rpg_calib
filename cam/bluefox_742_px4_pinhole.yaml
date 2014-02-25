@@ -1,0 +1,14 @@
+cam_model: Pinhole
+cam_width: 752
+cam_height: 480
+cam_fx: 407.3108440529106
+cam_fy: 407.6828779304142
+cam_cx: 368.91224447817984
+cam_cy: 236.96848778101736
+cam_d0: -0.279255919006238
+cam_d1: 0.06526552765113831
+cam_d2: -0.0003654587094024293
+cam_d3: -0.0003234310650375464
+cam_calib_date: '2014-01-23'
+cam_name: BLUEFOX_25000742
+cam_description: 'Bluefox Camera PX4 no. 1'

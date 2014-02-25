@@ -1,0 +1,11 @@
+cam_model: ATAN
+cam_width: 752
+cam_height: 480
+cam_fx: 0.520597
+cam_fy: 0.813323
+cam_cx: 0.506365
+cam_cy: 0.494267
+cam_d0: 0.940454
+cam_calib_date: '2014-01-29'
+cam_serial_no: 25000847
+cam_description: 'Bluefox Camera Christian F'

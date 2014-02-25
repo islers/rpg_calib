@@ -1,0 +1,13 @@
+cam_model: Pinhole
+cam_width: 640
+cam_height: 480
+cam_fx: 481.20
+cam_fy: -480.00
+cam_cx: 319.50
+cam_cy: 239.50
+cam_d0: 0.0
+cam_d1: 0.0
+cam_d2: 0.0
+cam_d3: 0.0
+cam_calib_date: '2013-11-17'
+cam_description: 'Povray synthetic camera for Ankur Handa datasets'
