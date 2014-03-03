@@ -1,0 +1,11 @@
+cam_model: ATAN
+cam_width: 752
+cam_height: 480
+cam_fx: 0.521338 
+cam_fy: 0.814768 
+cam_cx: 0.509852 
+cam_cy: 0.490228 
+cam_d0: 0.946922
+cam_calib_date: '2014-03-03'
+cam_name: BLUEFOX_25000818
+cam_description: 'Bluefox Camera PX4 project partner'
