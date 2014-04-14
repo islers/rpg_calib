@@ -1,0 +1,11 @@
+cam_model: ATAN
+cam_width: 752
+cam_height: 480
+cam_fx: 0.519235
+cam_fy: 0.811239
+cam_cx: 0.480667
+cam_cy: 0.476891
+cam_d0: 0.933049 
+cam_calib_date: '2014-04-14'
+cam_name: BLUEFOX_25000802
+cam_description: 'Bluefox Camera IDSIA no. 2' 
