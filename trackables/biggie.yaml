@@ -1,0 +1,11 @@
+trackable_calibration:
+  calibration:
+    translation:
+      x: 0.00287172
+      y: -0.110942
+      z: 0.00382836
+    rotation:
+      x: 0.00724969
+      y: -0.00961582
+      z: 0.940469
+      w: 0.339667
