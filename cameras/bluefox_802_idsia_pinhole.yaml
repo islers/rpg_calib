@@ -1,0 +1,14 @@
+cam_model: Pinhole
+cam_width: 752
+cam_height: 480
+cam_fx: 4.51631195e+02
+cam_fy: 4.90254974e+02
+cam_cx: 3.92699005e+02
+cam_cy: 22.99562225e+02
+cam_d0: -3.97691548e-01
+cam_d1: 1.59891382e-01
+cam_d2: -4.23219837e-02
+cam_d3: -6.88512460e-04
+cam_calib_date: '2014-04-30'
+cam_name: BLUEFOX_25000802
+cam_description: 'Bluefox Camera IDSIA'
