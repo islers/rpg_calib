@@ -1,14 +1,14 @@
 cam_model: Pinhole
 cam_width: 752
 cam_height: 480
-cam_fx: 418.122874
-cam_fy: 416.553922
-cam_cx: 384.060939
-cam_cy: 238.143074
-cam_d0: -0.286216
-cam_d1: 0.069393
-cam_d2: 0.000293
-cam_d3: 0.000567
-cam_calib_date: '2014-01-29'
+cam_fx: 422.583078
+cam_fy: 420.291252
+cam_cx: 391.459562
+cam_cy: 227.516011
+cam_d0: -0.281918
+cam_d1: 0.067348
+cam_d2: 0.000343
+cam_d3: 0.001279
+cam_calib_date: '2014-09-26'
 cam_name: BLUEFOX_25000847
 cam_description: 'Bluefox Camera Christian F'
