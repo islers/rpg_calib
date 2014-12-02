@@ -1,0 +1,13 @@
+cam_model: ATAN
+cam_width: 752
+cam_height: 480
+cam_fx: 0.51628
+cam_fy: 0.80916
+cam_cx: 0.50657
+cam_cy: 0.51119
+cam_d0: 0.941244
+cam_calib_date: '2014-12-02'
+cam_name: BLUEFOX_26803032
+cam_description: 'Color Cam for drdre' 
+
+
