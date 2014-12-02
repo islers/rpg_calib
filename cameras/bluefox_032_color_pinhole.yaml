@@ -1,0 +1,14 @@
+cam_model: Pinhole
+cam_width: 752
+cam_height: 480
+cam_fx:  420.3664325433816
+cam_fy: 387.8934211669581
+cam_cx: 419.4820656007185
+cam_cy: 246.290346195953
+cam_d0: -0.2927738162935744
+cam_d1:  0.07756720582959914
+cam_d2: -0.0004375684555809012
+cam_d3: -0.0009467876329695251
+cam_calib_date: '2014-12-02'
+cam_name: BLUEFOX_26803032
+cam_description: 'BLUEFOX_26803032 Color'
