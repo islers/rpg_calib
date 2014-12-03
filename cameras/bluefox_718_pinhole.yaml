@@ -1,0 +1,14 @@
+cam_model: Pinhole
+cam_width: 752
+cam_height: 480
+cam_fx: 414.090181
+cam_fy: 413.798838
+cam_cx: 355.566916
+cam_cy: 246.337069
+cam_d0: -0.290018
+cam_d1: 0.072180 
+cam_d2: -0.000622 
+cam_d3: 0.000922
+cam_calib_date: '2014-10-28'
+cam_name: BLUEFOX_25000718
+cam_description: 'Bluefox Camera Greyscale ROOM 2.20'
