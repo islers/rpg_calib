@@ -1,0 +1,12 @@
+cam_model: ATAN
+cam_width: 752
+cam_height: 480
+cam_fx: 0.498954
+cam_fy: 0.781597
+cam_cx: 0.543517
+cam_cy: 0.555842
+cam_d0: 0.936205
+cam_calib_date: '2014-12-15'
+cam_name: BLUEFOX_250001268
+cam_description: 'Bluefox Gray' 
+
